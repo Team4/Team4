@@ -16,6 +16,8 @@
     // Release any cached data, images, etc that aren't in use.
 }
 
+#This is a test comment
+
 #pragma mark - View lifecycle
 
 - (void)viewDidLoad
